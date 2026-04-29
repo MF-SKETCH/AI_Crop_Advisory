@@ -1,0 +1,6 @@
+Crop,Season,Soil_Type,Water_Need,Seed_Cost,Fertilizer_Cost,Labor_Cost,Expected_Yield,Market_Price,Common_Risks
+Wheat,Rabi,Loamy,Medium,12000,25000,30000,40,4200,Rust disease and water stress
+Rice,Kharif,Clay,High,18000,30000,35000,55,5200,Bacterial blight and high water cost
+Maize,Kharif,Loamy,Medium,15000,26000,28000,50,3800,Fall armyworm and price fluctuation
+Cotton,Kharif,Sandy Loam,Medium,20000,35000,40000,35,8500,Whitefly and bollworm
+Gram,Rabi,Sandy Loam,Low,9000,15000,22000,25,7000,Dry weather and pod borer
