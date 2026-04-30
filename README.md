@@ -33,10 +33,6 @@ Based on this matching:
 - Processing Mechanism: Data filtering and conditional logic
 - Output: Crop recommendation, cost, revenue, profit, and risk analysis
 
- Role of AI
-
-Currently, the system uses basic logic to simulate decision-making. However, the concept is aligned with Artificial Intelligence as it mimics human decision processes in agriculture.
-
 In advanced stages, this system can be enhanced using:
 
 - Machine Learning models for prediction
